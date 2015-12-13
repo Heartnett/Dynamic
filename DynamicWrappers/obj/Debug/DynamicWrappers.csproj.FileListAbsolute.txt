@@ -1,0 +1,5 @@
+D:\VS2015 Projects\WindowsFormsApplication1\DynamicWrappers\bin\Debug\DynamicWrappers.dll
+D:\VS2015 Projects\WindowsFormsApplication1\DynamicWrappers\bin\Debug\DynamicWrappers.pdb
+D:\VS2015 Projects\WindowsFormsApplication1\DynamicWrappers\obj\Debug\DynamicWrappers.csprojResolveAssemblyReference.cache
+D:\VS2015 Projects\WindowsFormsApplication1\DynamicWrappers\obj\Debug\DynamicWrappers.dll
+D:\VS2015 Projects\WindowsFormsApplication1\DynamicWrappers\obj\Debug\DynamicWrappers.pdb
