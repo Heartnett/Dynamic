@@ -2,7 +2,7 @@
 Think of it as ExpandoObject++
 
 ## Features
-Provides access to a wrapped class' properties, methods, and indexers.
+Provides access to a wrapped class' properties, methods, operators (some of them), and indexers.
 
 Allows you to add more properties and or methods to the wrapped instance.
 
