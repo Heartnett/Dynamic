@@ -54,7 +54,7 @@ namespace DynamicWrappers
         /// <param name="instance">The instance of the object to wrap.</param>
         public DynamicWrapper(T instance)
         {
-            if (_instance == null) throw new ArgumentNullException(nameof(instance), "The parameter cannot be null.");
+            if (instance == null) throw new ArgumentNullException(nameof(instance), "The parameter cannot be null.");
             _instance = instance;
         }
         #endregion
